@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.18",
+    "typescript": "^4.8.2"
   }
 }
