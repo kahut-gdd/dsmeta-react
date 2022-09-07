@@ -96,11 +96,11 @@ a:visited {
     justify-content: center;
 }
 
-.show576 {
+#show576 {
     display: none;
 }
 
-.show992 {
+#show992 {
     display: none;
 }
 
