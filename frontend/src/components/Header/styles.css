@@ -10,13 +10,14 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 20px;
   }
   
   .dsmeta-logo-container img {
     width: 140px;
     border-radius: 80px;
-    background-color: rgb(148, 81, 255);
-    box-shadow: 1px 2px 2px 1px rgb(255, 92, 92);
+    background-color: rgb(17, 198, 253);
+    box-shadow: 1px 2px 5px 1px rgb(255, 92, 92);
   }
   
   .dsmeta-logo-container h1 {
